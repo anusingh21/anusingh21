@@ -65,10 +65,14 @@ I specialize in **AI-first hiring** — designing 0→1 recruitment systems, com
 
 ### 🔗 Let’s Connect  
 <p>
-  <a href="(https://www.linkedin.com/in/anu-singh-a66b3946/)">
+  <a href="https://www.linkedin.com/in/anu-singh-a66b3946/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+### 📧 Email  
+- **Official:** anu.singh@blackngreen.com  
+- **Personal:** anupisces90@gmail.com
 
 ---
 
